@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Илья Козлов](https://up.htmlacademy.ru/univer-js3/6/user/2670799).
-* Наставник: `Неизвестно`.
+- Студент: [Илья Козлов](https://up.htmlacademy.ru/univer-js3/6/user/2670799).
+- Наставник: [Полина Шнайдер](https://htmlacademy.ru/profile/id1178327).
 
 ---
 
